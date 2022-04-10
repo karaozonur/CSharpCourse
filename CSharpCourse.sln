@@ -15,6 +15,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-DamaTahtasi", "Demo-DamaTahtasi\Demo-DamaTahtasi.csproj", "{79625CC4-D732-4933-A9C8-2E3F5AB9AF2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{11129A85-AD72-417E-B47D-D61CE64676E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{BAAE01C4-06E1-42F8-A63F-35C540E51CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceKalitim", "InheritanceKalitim\InheritanceKalitim.csproj", "{0E01A247-0732-48FC-B4C0-94D98363178C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notlar", "Notlar", "{061BC58D-B48A-44A1-BB19-8CF3533D4D11}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +58,22 @@ Global
 		{79625CC4-D732-4933-A9C8-2E3F5AB9AF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79625CC4-D732-4933-A9C8-2E3F5AB9AF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79625CC4-D732-4933-A9C8-2E3F5AB9AF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11129A85-AD72-417E-B47D-D61CE64676E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11129A85-AD72-417E-B47D-D61CE64676E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11129A85-AD72-417E-B47D-D61CE64676E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11129A85-AD72-417E-B47D-D61CE64676E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAE01C4-06E1-42F8-A63F-35C540E51CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAE01C4-06E1-42F8-A63F-35C540E51CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAE01C4-06E1-42F8-A63F-35C540E51CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAE01C4-06E1-42F8-A63F-35C540E51CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E01A247-0732-48FC-B4C0-94D98363178C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E01A247-0732-48FC-B4C0-94D98363178C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E01A247-0732-48FC-B4C0-94D98363178C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E01A247-0732-48FC-B4C0-94D98363178C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
