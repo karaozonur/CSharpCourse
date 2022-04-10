@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayiKontrol", "AsalSayi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethod", "StringMethod\StringMethod.csproj", "{7D0D90CF-0C96-4948-AECC-722B89F0F67D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{CAD7043D-9EAC-4E45-8166-5987A9DE3193}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7D0D90CF-0C96-4948-AECC-722B89F0F67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D0D90CF-0C96-4948-AECC-722B89F0F67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D0D90CF-0C96-4948-AECC-722B89F0F67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD7043D-9EAC-4E45-8166-5987A9DE3193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD7043D-9EAC-4E45-8166-5987A9DE3193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD7043D-9EAC-4E45-8166-5987A9DE3193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD7043D-9EAC-4E45-8166-5987A9DE3193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
