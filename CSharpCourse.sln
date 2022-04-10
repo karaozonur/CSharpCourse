@@ -15,18 +15,22 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-DamaTahtasi", "Demo-DamaTahtasi\Demo-DamaTahtasi.csproj", "{79625CC4-D732-4933-A9C8-2E3F5AB9AF2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{11129A85-AD72-417E-B47D-D61CE64676E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Interfaces", "Interfaces\Classes_Interfaces.csproj", "{11129A85-AD72-417E-B47D-D61CE64676E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{BAAE01C4-06E1-42F8-A63F-35C540E51CC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_InterfacesDemo", "InterfacesDemo\Classes_InterfacesDemo.csproj", "{BAAE01C4-06E1-42F8-A63F-35C540E51CC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceKalitim", "InheritanceKalitim\InheritanceKalitim.csproj", "{0E01A247-0732-48FC-B4C0-94D98363178C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Inheritance_Kalitim", "InheritanceKalitim\Classes_Inheritance_Kalitim.csproj", "{0E01A247-0732-48FC-B4C0-94D98363178C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notlar", "Notlar", "{061BC58D-B48A-44A1-BB19-8CF3533D4D11}"
 	ProjectSection(SolutionItems) = preProject
 		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_VirtualMethods", "VirtualMethods\Classes_VirtualMethods.csproj", "{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Abstract", "Classes_Abstract\Classes_Abstract.csproj", "{8107ACEF-7EFF-4B2A-BA0A-3974E52C011A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Classes", "Demo-Classes\Demo-Classes.csproj", "{8DEFA5B5-5458-4883-9D88-00BB8D595055}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +78,14 @@ Global
 		{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B8ED7FD-6DE6-4C16-9A7F-81A90B462A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8107ACEF-7EFF-4B2A-BA0A-3974E52C011A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8107ACEF-7EFF-4B2A-BA0A-3974E52C011A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8107ACEF-7EFF-4B2A-BA0A-3974E52C011A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8107ACEF-7EFF-4B2A-BA0A-3974E52C011A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEFA5B5-5458-4883-9D88-00BB8D595055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEFA5B5-5458-4883-9D88-00BB8D595055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEFA5B5-5458-4883-9D88-00BB8D595055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEFA5B5-5458-4883-9D88-00BB8D595055}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
