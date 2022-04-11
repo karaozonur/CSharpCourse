@@ -9,6 +9,7 @@ namespace Classes
     internal class Program
     {
         //Class lar içinde değerde tutulur. PROPERTY
+        //Classlar sadece internal veya public olur. private veya Protected olamaz
         static void Main(string[] args)
         {
             CustomerManager customerManager = new CustomerManager();
