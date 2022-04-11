@@ -13,7 +13,7 @@ namespace AccessModifiers
         //İnternal -> Proje içinde istediğimiz noktada çagıra bilirsiniz
         //İnternal -> Classlar sadece internal veya public olur
         // Public 
-
+        //Static - newlenmez belleğin hafızasında durur // Ortak nesneler
         static void Main(string[] args)
         {
         }
@@ -45,6 +45,16 @@ namespace AccessModifiers
        internal class Course // 
         {
             public string Name { get; set; }
+        }
+
+        static class Teacher
+        {
+            public static int Id { get; set; }
+        }
+
+        class Teacher2
+        {
+            public static int Id { get; set; }
         }
     }
 }

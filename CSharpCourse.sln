@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Classes-interface", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{059AE822-6B09-482C-953B-A5271F13EEAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors_YapiciBloklar", "Constructors_YapiciBloklar\Constructors_YapiciBloklar.csproj", "{9C956141-0BB6-43EF-95DA-C1D0438709D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{059AE822-6B09-482C-953B-A5271F13EEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{059AE822-6B09-482C-953B-A5271F13EEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{059AE822-6B09-482C-953B-A5271F13EEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C956141-0BB6-43EF-95DA-C1D0438709D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C956141-0BB6-43EF-95DA-C1D0438709D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C956141-0BB6-43EF-95DA-C1D0438709D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C956141-0BB6-43EF-95DA-C1D0438709D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
