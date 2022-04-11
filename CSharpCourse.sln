@@ -36,6 +36,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessMo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors_YapiciBloklar", "Constructors_YapiciBloklar\Constructors_YapiciBloklar.csproj", "{9C956141-0BB6-43EF-95DA-C1D0438709D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{646AEEF4-13FE-4FC0-8D90-0DD49FC499D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList_DiziListesi", "ArrayList_DiziListesi\ArrayList_DiziListesi.csproj", "{7DE6568B-674C-416C-8E3C-746E15FEDC72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +102,14 @@ Global
 		{9C956141-0BB6-43EF-95DA-C1D0438709D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C956141-0BB6-43EF-95DA-C1D0438709D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C956141-0BB6-43EF-95DA-C1D0438709D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646AEEF4-13FE-4FC0-8D90-0DD49FC499D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646AEEF4-13FE-4FC0-8D90-0DD49FC499D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646AEEF4-13FE-4FC0-8D90-0DD49FC499D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646AEEF4-13FE-4FC0-8D90-0DD49FC499D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE6568B-674C-416C-8E3C-746E15FEDC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE6568B-674C-416C-8E3C-746E15FEDC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE6568B-674C-416C-8E3C-746E15FEDC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE6568B-674C-416C-8E3C-746E15FEDC72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
