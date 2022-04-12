@@ -1,1 +1,3 @@
 AccessModifiers --> Void 
+
+List_Collection_Ozellikleri > Koleksiyon List
