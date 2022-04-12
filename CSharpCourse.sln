@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Exceptions_Try_Hata_Yone
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_ADONET_Demo", "ADONET_Demo\21_ADONET_Demo.csproj", "{D9A731C6-2F0D-4A35-95CA-D046404F4000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_EntityFrameworkDemo", "EntityFrameworkDemo\22_EntityFrameworkDemo.csproj", "{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +142,10 @@ Global
 		{D9A731C6-2F0D-4A35-95CA-D046404F4000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9A731C6-2F0D-4A35-95CA-D046404F4000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9A731C6-2F0D-4A35-95CA-D046404F4000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
