@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30804.86
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ArrayDiziler", "ArrayDiziler\07_ArrayDiziler.csproj", "{D6209959-4628-4F80-B7B3-8EADB9A26E18}"
 EndProject
@@ -51,6 +51,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_ADONET_Demo", "ADONET_Demo\21_ADONET_Demo.csproj", "{D9A731C6-2F0D-4A35-95CA-D046404F4000}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_EntityFrameworkDemo", "EntityFrameworkDemo\22_EntityFrameworkDemo.csproj", "{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_Generic_Class_Method", "Generic_Class_Method\24_Generic_Class_Method.csproj", "{4FF71DEA-D553-43E6-941E-6BCA6584EBB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_Attributes", "25_Attributes\25_Attributes.csproj", "{6B0143D2-98AF-4466-AF90-93EA7502F4D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -146,6 +150,14 @@ Global
 		{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE7C7D54-5E3E-4211-BBC4-06FA4E0B7CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF71DEA-D553-43E6-941E-6BCA6584EBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF71DEA-D553-43E6-941E-6BCA6584EBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF71DEA-D553-43E6-941E-6BCA6584EBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF71DEA-D553-43E6-941E-6BCA6584EBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0143D2-98AF-4466-AF90-93EA7502F4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0143D2-98AF-4466-AF90-93EA7502F4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0143D2-98AF-4466-AF90-93EA7502F4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0143D2-98AF-4466-AF90-93EA7502F4D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
