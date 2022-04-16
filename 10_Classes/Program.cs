@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Classes
+namespace _10_Classes
 {
     internal class Program
-    {
+    { 
         //Class lar içinde değerde tutulur. PROPERTY
         //Classlar sadece internal veya public olur. private veya Protected olamaz
         static void Main(string[] args)
@@ -16,7 +16,7 @@ namespace Classes
             customerManager.Add();
             customerManager.Update();
             Console.WriteLine("----------------");
-            ProductManager productManager = new ProductManager();   
+            ProductManager productManager = new ProductManager();
             productManager.Add();
             productManager.Update();
 
@@ -27,7 +27,7 @@ namespace Classes
             Console.WriteLine("----------------");
 
             //Class Dosyasında tanımlanan PROPERTY alanlarına değer vermek.
-            tbCustomer tbCustomer=new tbCustomer();
+            tbCustomer tbCustomer = new tbCustomer();
             tbCustomer.ID = 1; //SET
             tbCustomer.Name = "Onur";  //SET
             tbCustomer.City = "Muğla"; //SET
@@ -35,7 +35,9 @@ namespace Classes
 
             tbCustomer tbCustomer2 = new tbCustomer
             {
-                ID = 2,Name="karaoz",City= "marmaris"  //SET
+                ID = 2,
+                Name = "karaoz",
+                City = "marmaris"  //SET
             };
 
             Console.WriteLine(tbCustomer2.City);  //GET
@@ -43,31 +45,30 @@ namespace Classes
 
             Console.ReadLine();
 
-           
         }
-    }
-    class CustomerManager
-    {
-        public void Add()
+        class CustomerManager
         {
-            Console.WriteLine("Customer Added..");
-        }
-        public void Update()
-        {
-            Console.WriteLine("Customer Updated..");
-        }
+            public void Add()
+            {
+                Console.WriteLine("Customer Added..");
+            }
+            public void Update()
+            {
+                Console.WriteLine("Customer Updated..");
+            }
 
-    }
-    class ProductManager
-    {
-        public void Add()
-        {
-            Console.WriteLine("Product Added..");
         }
-        public void Update()
+        class ProductManager
         {
-            Console.WriteLine("Product Updated..");
-        }
+            public void Add()
+            {
+                Console.WriteLine("Product Added..");
+            }
+            public void Update()
+            {
+                Console.WriteLine("Product Updated..");
+            }
 
+        }
     }
 }

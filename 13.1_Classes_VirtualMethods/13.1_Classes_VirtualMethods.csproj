@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D6209959-4628-4F80-B7B3-8EADB9A26E18}</ProjectGuid>
+    <ProjectGuid>{439D6685-7059-40D4-8DD4-1B7A5792907E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ArrayDiziler</RootNamespace>
-    <AssemblyName>ArrayDiziler</AssemblyName>
+    <RootNamespace>_13._1_Classes_VirtualMethods</RootNamespace>
+    <AssemblyName>13.1_Classes_VirtualMethods</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
