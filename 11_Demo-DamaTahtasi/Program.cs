@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Demo_DamaTahtasi
+namespace _11_Demo_DamaTahtasi
 {
     internal static class Program
     {

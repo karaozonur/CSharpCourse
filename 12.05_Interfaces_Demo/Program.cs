@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterfacesDemo
+namespace _12._05_Interfaces_Demo
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -27,7 +27,7 @@ namespace InterfacesDemo
                 new Worker(),
             };
 
-            foreach(var eat in eats)
+            foreach (var eat in eats)
             {
                 eat.Eat();
             }
@@ -37,7 +37,7 @@ namespace InterfacesDemo
     interface IWorker
     {
         void Work();
-   
+
     }
     interface IEat
     {
@@ -83,7 +83,7 @@ namespace InterfacesDemo
     }
     class Robot : IWorker
     {
-      
+
         public void Work()
         {
             throw new NotImplementedException();

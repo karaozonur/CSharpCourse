@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Demo_DamaTahtasi
+namespace _11_Demo_DamaTahtasi
 {
     public partial class Form1 : Form
     {
@@ -19,16 +19,15 @@ namespace Demo_DamaTahtasi
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
             //Button button = new Button();
             //button.Width = 50;
             //button.Height = 50;
             //this.Controls.Add(button); // Ekrana basmamızı sağlar Bu olmazsa gözükmez
 
 
-            Button[,] button = new Button[8,8];
-            int top=0;
-            int left=0;
+            Button[,] button = new Button[8, 8];
+            int top = 0;
+            int left = 0;
             for (int i = 0; i < button.GetUpperBound(0); i++)
             {
 
@@ -40,7 +39,7 @@ namespace Demo_DamaTahtasi
                     button[i, j].Left = left;
                     button[i, j].Top = top;
                     left += 50;
-                    if ((i+j)%2==0)
+                    if ((i + j) % 2 == 0)
                     {
                         button[i, j].BackColor = Color.Black;
                     }
@@ -54,9 +53,6 @@ namespace Demo_DamaTahtasi
                 top += 50;
                 left = 0;
             }
-
-
-            
 
         }
     }

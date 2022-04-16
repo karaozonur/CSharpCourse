@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Demo_DamaTahtasi.Properties
+namespace _11_Demo_DamaTahtasi.Properties
 {
 
 

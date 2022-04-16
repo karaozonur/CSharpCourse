@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _13._1_Classes_VirtualMethods
+namespace _13._1_VirtualMethods
 {
     internal class Program
     {

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0E01A247-0732-48FC-B4C0-94D98363178C}</ProjectGuid>
+    <ProjectGuid>{C3339B35-DAC0-4B49-90F1-0731478F851A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InheritanceKalitim</RootNamespace>
-    <AssemblyName>InheritanceKalitim</AssemblyName>
+    <RootNamespace>_12._05_Interfaces_Demo</RootNamespace>
+    <AssemblyName>12.05_Interfaces_Demo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

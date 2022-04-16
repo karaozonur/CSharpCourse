@@ -1,4 +1,4 @@
-﻿namespace Demo_DamaTahtasi
+﻿namespace _11_Demo_DamaTahtasi
 {
     partial class Form1
     {

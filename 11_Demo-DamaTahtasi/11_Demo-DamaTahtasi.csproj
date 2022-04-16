@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{79625CC4-D732-4933-A9C8-2E3F5AB9AF2F}</ProjectGuid>
+    <ProjectGuid>{52220693-0C93-48DC-A528-3E0DB1D835A6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Demo_DamaTahtasi</RootNamespace>
-    <AssemblyName>Demo-DamaTahtasi</AssemblyName>
+    <RootNamespace>_11_Demo_DamaTahtasi</RootNamespace>
+    <AssemblyName>11_Demo-DamaTahtasi</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

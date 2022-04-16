@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Demo-DamaTahtasi")]
+[assembly: AssemblyTitle("13.1_VirtualMethods")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Demo-DamaTahtasi")]
+[assembly: AssemblyProduct("13.1_VirtualMethods")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("79625cc4-d732-4933-a9c8-2e3f5ab9af2f")]
+[assembly: Guid("a91f9c3f-60c7-41c0-8945-82b77ac5ced4")]
 
 // Version information for an assembly consists of the following four values:
 //

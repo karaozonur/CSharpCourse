@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Interfaces
+namespace _12._00_Interfaces
 {
-    class Program
+    internal class Program
     {
         // Büyük I ile Başlar
         // INTERFACELER NEW LENEMEZ
@@ -63,7 +63,7 @@ namespace Interfaces
 
             Console.ReadLine();
         }
-   
+
 
         class PersonManager
         {

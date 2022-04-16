@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InheritanceKalitim
+namespace _13._0_Inheritance_Kalitim
 {
     internal class Program
     {
@@ -32,7 +32,7 @@ namespace InheritanceKalitim
             public int Id { get; set; }
 
         }
-        class Customer:Person
+        class Customer : Person
         {
             public string Depetman { get; set; }
             public int Numara { get; set; }
@@ -46,7 +46,7 @@ namespace InheritanceKalitim
         }
         class Deneme : Person
         {
-           
+
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Interfaces
+namespace _12._00_Interfaces
 {
     interface ICustomerDal
     {
@@ -49,7 +49,8 @@ namespace Interfaces
         }
     }
 
-    class CustomerManager {
+    class CustomerManager
+    {
         public void Add(ICustomerDal customerDal)
         {
             customerDal.Add();

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{439D6685-7059-40D4-8DD4-1B7A5792907E}</ProjectGuid>
+    <ProjectGuid>{90B04E10-2F13-4949-B041-9C96BC33E348}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_13._1_Classes_VirtualMethods</RootNamespace>
-    <AssemblyName>13.1_Classes_VirtualMethods</AssemblyName>
+    <RootNamespace>_13._0_Inheritance_Kalitim</RootNamespace>
+    <AssemblyName>13.0_Inheritance_Kalitim</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

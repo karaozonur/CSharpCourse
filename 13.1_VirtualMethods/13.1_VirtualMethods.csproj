@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAAE01C4-06E1-42F8-A63F-35C540E51CC6}</ProjectGuid>
+    <ProjectGuid>{A91F9C3F-60C7-41C0-8945-82B77AC5CED4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InterfacesDemo</RootNamespace>
-    <AssemblyName>InterfacesDemo</AssemblyName>
+    <RootNamespace>_13._1_VirtualMethods</RootNamespace>
+    <AssemblyName>13.1_VirtualMethods</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
