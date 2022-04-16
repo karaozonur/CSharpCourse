@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StringMethod
+namespace _09_StringMethod
 {
     internal class Program
     {
+
         // Sentence --> Cümle
         // Length --> Uzunluk
         // Clone --> Klon - Eşeysiz Çoğaltma
@@ -88,7 +89,7 @@ namespace StringMethod
             //Insert --> Bir cümleye başka bir kelime cümle yerleştirmek için kullanılır.
             /////////////////////////////////////////
             Console.WriteLine("----Insert----");
-            var Insert = sentence.Insert(0,"Hello, "); // 0'ıncı karakter itibariyle başına hello ekler -- Hello,  My name is Lord Voldemort
+            var Insert = sentence.Insert(0, "Hello, "); // 0'ıncı karakter itibariyle başına hello ekler -- Hello,  My name is Lord Voldemort
             Console.WriteLine(Insert);
             Console.WriteLine("---------------");
             /////////////////////////////////////////
@@ -97,7 +98,7 @@ namespace StringMethod
             Console.WriteLine("----Substring----");
             var Substring = sentence.Substring(3); // --> name is Lord Voldemort
             Console.WriteLine(Substring);
-            var Substring2 = sentence.Substring(3,7); // --> name is
+            var Substring2 = sentence.Substring(3, 7); // --> name is
             Console.WriteLine(Substring2);
             Console.WriteLine("---------------");
             /////////////////////////////////////////
@@ -118,7 +119,7 @@ namespace StringMethod
             //Replace --> belirtilen karakterleri değiştirir.
             /////////////////////////////////////////
             Console.WriteLine("----Replace----");
-            var Replace = sentence.Replace(" ","-"); // boşluk karakterini çizgi ile değiştiriyor. My-name-is-Lord-Voldemort
+            var Replace = sentence.Replace(" ", "-"); // boşluk karakterini çizgi ile değiştiriyor. My-name-is-Lord-Voldemort
             Console.WriteLine(Replace);
             Console.WriteLine("---------------");
             /////////////////////////////////////////
@@ -127,7 +128,7 @@ namespace StringMethod
             Console.WriteLine("----Remove----");
             var Remove = sentence.Remove(2); // İkinci karakterden sonrasını kaldırır.
             Console.WriteLine(Remove);
-            var Remove2 = sentence.Remove(2,5); // İkinci karakterden sonra 4 e kadar kaldırır.
+            var Remove2 = sentence.Remove(2, 5); // İkinci karakterden sonra 4 e kadar kaldırır.
             Console.WriteLine(Remove2);
             Console.WriteLine("---------------");
 

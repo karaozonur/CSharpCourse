@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05B34FDE-455E-4335-97C1-34DE6DAD58E2}</ProjectGuid>
+    <ProjectGuid>{9E1E254B-4298-4C08-BBCF-F9794AEDB6AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AsalSayiKontrol</RootNamespace>
-    <AssemblyName>AsalSayiKontrol</AssemblyName>
+    <RootNamespace>_09_StringMethod</RootNamespace>
+    <AssemblyName>09_StringMethod</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

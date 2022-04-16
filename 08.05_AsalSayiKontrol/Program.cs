@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AsalSayiKontrol
+namespace _08._05_AsalSayiKontrol
 {
     internal class Program
     {
@@ -24,9 +24,9 @@ namespace AsalSayiKontrol
         private static bool isPrivateNumber(int number)
         {
             bool isPrivate = true;
-            for (int i = 2; i < number-1; i++)
+            for (int i = 2; i < number - 1; i++)
             {
-                if (number%i==0)
+                if (number % i == 0)
                 {
                     isPrivate = false;
                     i = number;
