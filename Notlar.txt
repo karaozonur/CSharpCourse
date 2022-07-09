@@ -6,3 +6,6 @@ List_Collection_Ozellikleri > Koleksiyon List
 21_ADONET_Demo >>>
 List 
 Datatable 
+
+
+Void, geriye deðer döndürmeyen metotlarý belirtmek için kullanýlýr. Public, Protected ve Private tanýmlamalarýna ise eriþim belirleyiciler(Access Modifiers) denir. Public olarak tanýmlanan öðeye kod bloðunun içinden ve dýþýndan eriþebilir, yani her yerden ulaþýlabilir denilebilir. Statik tanýmlamasý yapýldýðýnda ise bu sýnýfa herhangi bir nesne oluþturmadan, sadece adýyla çaðýrýp eriþim saðlanabilir.
